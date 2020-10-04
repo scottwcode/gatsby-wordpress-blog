@@ -3,11 +3,11 @@ import config from "../../../../client-config"
 import Link from "gatsby-link"
 import { isEmpty } from "lodash"
 import "./style.scss"
-// import "../../../images/home/mountain-illustration.png"
-import "../../../images/home/beach-01.jpg"
+import "../../../images/home/mountain-illustration.png"
+// import "../../../images/home/beach-01.png"
 import Img from "gatsby-image"
-// import heroDefaultImgUrl from "../../../images/home/mountain-illustration.png"
-import heroDefaultImgUrl from "../../../images/home/beach-01.png"
+import heroDefaultImgUrl from "../../../images/home/mountain-illustration.png"
+// import heroDefaultImgUrl from "../../../images/home/beach-01.png"
 
 const Hero = props => {
   const { title, description, image, pageLinkText, pageLink } = props.data

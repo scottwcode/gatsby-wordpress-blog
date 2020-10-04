@@ -8,11 +8,16 @@ const config = {
   homePagePostType: "post", // Will be used to display 3 latest post on home page of given post type
   homePageTaxonomy: "category", // // Will be used to display 3 taxonomies on home page of given post type,
   heroSection: {
-    heroTitle: "Amazing world.",
+    heroTitle: "My digital stuff.",
     heroDescription:
-      "Discover more than just common Landscapes. Try to live inside of the wild nature. Create your own story. Unforgettable and nonrepeating by nobody.",
-    heroImgURL: "/images/mountain-illustration.png",
-    heroBtnTxt: "Explore My World",
+      "This site contains links, information and anything else that may need to be stored in a digital container.",
+    heroImgURL: "/images/beach-01.png",
+    heroBtnTxt: "See My Virtual World",
+    // heroTitle: "Amazing world.",
+    // heroDescription:
+    //   "Discover more than just common Landscapes. Try to live inside of the wild nature. Create your own story. Unforgettable and nonrepeating by nobody.",
+    // heroImgURL: "/images/mountain-illustration.png",
+    // heroBtnTxt: "Explore My World",
   },
   searchSection: {
     searchBackURL: "/images/search-background.png",
