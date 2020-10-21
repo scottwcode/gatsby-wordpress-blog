@@ -3,14 +3,13 @@
 ## Originally Created from Gatsby-WordPress-Theme-Phoenix
 
 A Gatsby site using WordPress as a headless CMS.
-Front end wiring in Gatsby/React.
-Backend Content in WordPress.
+Front end wiring in Gatsby/React with backend content in WordPress.
 
 ## 🔥 Features
 
-1. Uses React with Gatsby ( Blazing Fast )
+1. Uses React with Gatsby ( Should Be Fast )
 2. PWA ( Works Offline )
-3. Image Optimization ( blur effect )
+3. Image Optimization ( w/ blur effect )
 4. ACF - Advanced Custom Fields ( from WP )
 5. GraphQL ( in Gatsby and with wp-graphql on WordPress )
 6. Blog Page with Pagination
@@ -39,6 +38,8 @@ b. Clone and activate [wp-graphql](https://github.com/wp-graphql/wp-graphql) -te
 c. Clone and activate [wp-graphiql](https://github.com/wp-graphql/wp-graphiql) in WordPress plugin directory.
 d. Clone and activate [wp-graphql-acf](https://github.com/wp-graphql/wp-graphql-acf) in WordPress plugin directory.
 e. Install and activate [ACF WordPress plugin](https://wordpress.org/plugins/advanced-custom-fields/) in the WordPress.
+
+THEN,
 
 2. - Set Header menu as `HCMS Header Menu`
 
