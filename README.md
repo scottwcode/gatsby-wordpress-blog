@@ -75,6 +75,6 @@ npm run dev      # During development.
 npm run build    # When ready for production.
 ```
 
-### Theme on npm
+### Originated from the following theme on npm
 
 [gatsby-wordpress-theme-phoenix](https://www.npmjs.com/package/gatsby-wordpress-theme-phoenix)
